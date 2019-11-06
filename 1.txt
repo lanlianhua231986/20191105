@@ -2,3 +2,14 @@
 121212
 zxyong
 
+
+git clone ---------------------------
+git add .  提交暂存区    (git status指的查看状态)
+git commit -m '备注'
+
+git pull (拉远程代码)   //如果两个人修改同一个文件就会发生冲突,需要解决
+                                   //解决冲突之后直接   git add .      git commit -m '解决冲突'   git push
+git push(推送到远程)
+我又添加类内容
+
+
